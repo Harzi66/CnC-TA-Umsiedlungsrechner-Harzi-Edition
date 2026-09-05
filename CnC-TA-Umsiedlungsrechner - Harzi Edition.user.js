@@ -5,6 +5,8 @@
 // @description  Berechnet Umsiedlungsstufe, nächste Verlegung und Stufenabbau
 // @author       Harzi
 // @match        https://*.alliances.commandandconquer.com/*/index.aspx*
+// @downloadURL  https://raw.githubusercontent.com/Harzi66/CnC-TA-Umsiedlungsrechner-Harzi-Edition/main/CnC-TA-Umsiedlungsrechner%-%Harzi%Edition.user.js
+// @updateURL    https://raw.githubusercontent.com/Harzi66/CnC-TA-Umsiedlungsrechner-Harzi-Edition/main/CnC-TA-Umsiedlungsrechner%-%Harzi%Edition.user.js
 // @grant        none
 // ==/UserScript==
 
